@@ -1,0 +1,15 @@
+# name/game/hands/seed wpc holdem.limit.2p.reverse_blinds.game 10 2
+#--t_response 600000
+#--t_hand 600000
+#--t_per_hand 7000
+STATE:0:cc/rc/cc/cc:7s5s|3c6h/AhKh6c/3s/Ac:-20|20:A|B
+STATE:1:cc/cc/cc/crc:Kc2s|Td4s/6s2cKs/8d/7h:30|-30:B|A
+STATE:2:cc/cc/cc/rc:KsKd|2c5s/Kh9h3c/4d/3s:30|-30:A|B
+STATE:3:cc/crc/crc/crc:2h7d|9h6h/Ah5h4d/Td/3s:60|-60:B|A
+STATE:4:crc/cc/rc/cc:2s5c|6s7h/QhKh4c/6d/4d:-40|40:A|B
+STATE:5:cc/cc/crc/cc:Ad9s|8h8s/Qh2h2c/Kh/9d:30|-30:B|A
+STATE:6:crc/rc/cc/cc:KsAs|3c4d/9c4hKd/3h/4c:-30|30:A|B
+STATE:7:cc/crc/crc/crc:5h4d|7c8c/8s4h9c/4s/5s:60|-60:B|A
+STATE:8:cc/rc/cc/cc:2c3h|Ts9h/JcKh9d/3d/6h:-20|20:A|B
+STATE:9:rc/crc/cc/crc:2h8s|2cAd/5dKhAs/Qs/Ts:-50|50:B|A
+SCORE:-210|210:A|B
